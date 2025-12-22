@@ -58,3 +58,5 @@ In Linux/Mac:
 
 In Windows:
 `set PYTHONUTF8=1`
+
+![API for Building and Registering Part Templates](./pbp/api.md)
